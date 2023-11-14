@@ -1,4 +1,6 @@
+fastapi
+scikit-learn
+uvicorn
+numpy
+streamlit
 pandas
-matplotlib
-joblib
-seaborn
