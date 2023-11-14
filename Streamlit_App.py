@@ -23,7 +23,7 @@ def news_prediction(text):
     return class_name
 
 st.title("Truth Seeker App")
-st.image("1.jpg")
+st.image("App Image.jpg")
 
 st.subheader("Input your text")
 
