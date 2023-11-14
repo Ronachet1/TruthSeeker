@@ -7,11 +7,11 @@ from sklearn.naive_bayes import MultinomialNB
 
 
 def load_tfidf():
-    tfidf = pickle.load(open("tf_idf.pkt", "rb"))
+    tfidf = pickle.load(open("tf_idf.pkl", "rb"))
     return tfidf
 
 def load_model():
-    nb_model = pickle.load(open("model.pkt", "rb"))
+    nb_model = pickle.load(open("model.pkl", "rb"))
     return nb_model
 
 def news_prediction(text):
