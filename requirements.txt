@@ -1,6 +1,5 @@
-fastapi
+tensorflow
 scikit-learn
-uvicorn
 numpy
 streamlit
-pandas
+transformers
