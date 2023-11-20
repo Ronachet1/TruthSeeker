@@ -14,7 +14,7 @@ st.image("1.jpg")
 @st.cache(hash_funcs={'self': lambda _: 0})
 def get_model():
    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-   model = BertForSequenceClassification.from_pretrained("sai/NewsTunedBert")
+   model = BertForSequenceClassification.from_pretrained("TruthSeeker/Abhi_bert_model")
    return tokenizer, model
     
 user_input = st.text_area('Enter Text to Analyze')
