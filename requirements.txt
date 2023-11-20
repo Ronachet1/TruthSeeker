@@ -1,5 +1,7 @@
 tensorflow
+fastapi
 scikit-learn
+uvicorn
 numpy
 streamlit
 transformers
