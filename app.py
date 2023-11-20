@@ -1,8 +1,6 @@
 import streamlit as st
 import pickle 
 import numpy as np 
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.naive_bayes import MultinomialNB
 import streamlit as st
 from transformers import pipeline
 from transformers import BertTokenizer, BertForSequenceClassification
