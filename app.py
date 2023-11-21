@@ -7,7 +7,7 @@ from transformers import BertTokenizer, BertForSequenceClassification
 
 
 st.title("Truth Seeker App")
-st.image("App Image.jpg")
+st.image("App Image.png")
 
 @st.cache(hash_funcs={'self': lambda _: 0})
 def get_model():
