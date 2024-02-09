@@ -10,8 +10,6 @@ Let the truth set you free !
 
 
 
-## Screenshots
-
 ![TruthSeeker](https://github.com/AbhijithNidanakavi/TruthSeeker/assets/91921508/f347e34f-4691-4f5e-8fbb-da54130179e4)
 
 
