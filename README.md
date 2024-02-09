@@ -25,7 +25,6 @@ Let the truth set you free !
 
 ## Project Approach
 
-'''shell
 
 [![Embedding](https://img.shields.io/badge/Embeddings-Word2Vec_LDA_BerTopic-orange.svg)](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 
@@ -35,7 +34,7 @@ Let the truth set you free !
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-'''
+
 ## Authors
 
 - [@Abhijith Nidanakavi](https://github.com/AbhijithNidanakavi)
