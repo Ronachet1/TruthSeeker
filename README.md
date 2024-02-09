@@ -28,8 +28,11 @@ Let the truth set you free !
 '''shell
 
 [![Embedding](https://img.shields.io/badge/Embeddings-Word2Vec_LDA_BerTopic-orange.svg)](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+
 [![Model](https://img.shields.io/badge/TransformerModel-BERT-white.svg)](https://huggingface.co/docs/transformers/model_doc/bert)
+
 [![Huggingface hub](https://img.shields.io/badge/Host-huggingface_hub-blue.svg)](https://huggingface.co/)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 '''
