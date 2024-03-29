@@ -1,7 +1,7 @@
 
 # TruthSeeker
 
-Model that leverages the power of Artificial Intelligence (AI) and Machine Learning (ML) to separate facts from fiction.
+Model that leverages the power of Artificial Intelligence (AI) and Machine Learning (ML) to separate facts from fiction.  The dataset, ‘Corpus Proppy 1.0’, is a repository of rich textual content, housing an impressive array of 52,000 articles meticulously sourced from over 100 different news outlets.
 
 Powered by NLP wizadry, it classifies news articles either as propogandistic or non-propagandistic, so you can navigate the media maze with ease. 
 
