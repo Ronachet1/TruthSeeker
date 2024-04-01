@@ -5,4 +5,4 @@ uvicorn
 numpy
 streamlit
 transformers
-keras
+tf-keras
